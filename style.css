@@ -1,0 +1,22 @@
+#questionnaire {
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: aqua;
+    padding: 16px;
+}
+
+.radio-button-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 36px;
+    justify-content: space-around;
+    padding: 16px;
+    background-color: aquamarine;
+}
+
+.submit-btn {
+    font-size: 24px;
+    padding: 8px;
+    background-color: aquamarine;
+    border-radius: 4px;
+}
